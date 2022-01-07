@@ -9,6 +9,6 @@ entries:
     name: helm-chart
     type: application
     urls:
-    - https://github.com/tungvt45/helm-chart/blob/main/helm-chart-0.1.0.tgz
+    - https://github.com/tungvt45/helm-chart/blob/main/demo-0.1.0.tgz
     version: 0.1.0
 generated: "2022-01-07T10:29:38.5786377+07:00"
